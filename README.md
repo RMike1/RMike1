@@ -25,6 +25,9 @@ _  /___/ /_/ / _  /    / /_/ / __ |/ / /  __/_  /     _  ___ |_  /    / /_  _  /
 
 
 <h3 align="left">Connect with me:</h3>
+
+<p dir="left"><a href="https://twitter.com/intent/follow?screen_name=rmike64951636" rel="nofollow"><img src="https://camo.githubusercontent.com/1f853309f5d153db493e139aa2e054f9b740dab9ef44cebb04b88c0ae3168424/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f4d7250756e796170616c3f6c6162656c3d466f6c6c6f77" alt="Twitter" data-canonical-src="https://img.shields.io/twitter/follow/rmike64951636?label=Follow" style="max-width: 100%;"></a>
+
 <p align="left">
 <a href="https://twitter.com/rmike64951636" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rmike64951636" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rudasingwa-mike-9a6a88150" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rudasingwa-mike-9a6a88150" height="30" width="40" /></a>
