@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rmike1&label=Profile%20views&color=0e75b6&style=flat" alt="rmike1" /> </p>
 
-💬 Ask me about Laravel, PHP, I’m a big fan of both the VILT Stack (Vue js + Inertia js + Laravel + Tailwind) and the TALL Stack (Tailwind + Alpine js + Laravel + Livewire), and now I’m also exploring the first release of native PHP with a builder’s curiosity, dreaming of PHP beyond the browser.
+💬 Passionate about Laravel and PHP. Fan of both VILT Stack(Vue js + Inertia js + Laravel + Tailwind) and TALL stack(Tailwind + Alpine js + Laravel + Livewire).  
+Now exploring native PHP — the journey beyond the browser has just begun.
+
 
 
 
